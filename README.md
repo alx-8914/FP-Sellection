@@ -7,7 +7,7 @@
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/>
 </div>
 
-# Confira a aplicação <a href="https://github.com/alx-8914/FP-Sellection"/>Aqui!</a>
+# Confira a aplicação <a href="https://alx-8914.github.io/FP-Sellection"/>Aqui!</a>
 <br>
 <h2>Landing Page; Site com Aniamação</h2>
 <div>
